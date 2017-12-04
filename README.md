@@ -1,2 +1,2 @@
-# ScreenShooter
-It's simple screenshooter. When you make screenshot, it is being saved in the chosen folder. 
+# Easy Snapshot
+It's simple snapshot tool. While you make screenshot it's being saved
